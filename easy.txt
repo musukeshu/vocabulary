@@ -3,3 +3,10 @@ donkey
 sun
 moon
 done
+
+cute
+sexy
+mute
+beautiful
+dog
+cat
